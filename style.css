@@ -1,0 +1,32 @@
+body{
+background-image: url("abc.png");
+background-position: center;
+}
+h1{
+    text-align: center;
+    background-color: #2bcccc;
+    font-family: 'Times New Roman', Times, serif;
+    border: dotted, blue, 2px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+p{
+    text-align: justify;
+    font-style:italic;
+    background-color:hsla(123, 57%, 53%, 0.979) ;
+    padding: 20px;
+    
+    border-bottom: 3px, black ;
+    border-top: dotted, brown, 2px;
+    border-left: dotted, yellow, 4px;
+    border-right: dotted, green, 5px;
+    width: 500 px;
+}
+span{
+    font-style: italic, bold;
+    color: rgb(rgb(19, 145, 40), green, rgb(33, 156, 99));
+    margin-left: 2px;
+    margin-right: 5px;
+}
