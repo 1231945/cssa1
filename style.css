@@ -9,7 +9,7 @@ h1{
     text-align: center;
     background-color: #2bcccc;
     font-family: 'Times New Roman', Times, serif;
-    border:2px, dotted, blue ;
+    border:2px dotted blue ;
     padding-left: 15px;
     padding-right: 15px;
     padding-top: 10px;
@@ -35,4 +35,5 @@ span{
     color: rgb(241, 238, 11);
     margin-left: 2px;
     margin-right: 5px;
+
 }
